@@ -1,8 +1,8 @@
-# Simples exemplo de requisição AJAX (POST) com Jquery
+# Simples exemplo de requisição AJAX (GET) com Jquery
 
 
 
-A requisição POST utiliza um **token de autenticação** para efetuar a consulta.
+A requisição GET utiliza um **token de autenticação** para efetuar a consulta.
 
 O código é apenas um exemplo para guardar, para se lembrar em como você pode inserir o token na requisição.
 
